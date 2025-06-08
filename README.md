@@ -10,10 +10,14 @@ Ce travail s’inscrit dans le cadre du cours de Physique Moderne.
 Il s'appuie sur le document officiel « Projet_2425.pdf », décrivant l’effet Ramsauer–Townsend et les étapes à suivre.
 Le modèle utilisé est un puits de potentiel 1D à profondeur finie, dans lequel on analyse la diffusion d’une onde.
 
+
+
 Objectif du projet: 
 
 Ce projet a pour but d’étudier la transmission quantique d’une particule à travers un puits de potentiel carré fini. 
 L’objectif est d’expliquer l’effet Ramsauer–Townsend, un phénomène où la probabilité de diffusion d’une particule devient très faible (voire nulle) à certaines énergies.
+
+
 
 Description des scripts utilisés:
 
