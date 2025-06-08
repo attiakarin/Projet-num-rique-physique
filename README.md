@@ -39,6 +39,7 @@ Utilise des valeurs physiques réalistes
 Affiche le puits de potentiel et les trois régions de l’espace avec la forme des ondes.
 
 
+
 Utilisation des fichiers : 
 
 Installer les bibliothèques nécessaires.
