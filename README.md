@@ -2,7 +2,7 @@
 
 Projet de Physique Moderne – Effet Ramsauer–Townsend
 
-PréIng 2 MI5 – CY Tech 2024–2025
+PréIng 2 MI5D – CY Tech 2024–2025
 
 Sujet du projet:
 
